@@ -82,4 +82,5 @@ pyinstaller --onefile --noconsole --name MyVault --icon icon.ico --add-data "ico
 ---
 
 ## 라이선스
+
 이 프로젝트는 개인 학습/연습용으로 제작되었습니다.
